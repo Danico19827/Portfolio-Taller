@@ -1,24 +1,72 @@
+body {
+    font-family: 'Muli', sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Saira Extra Condensed', sans-serif;
+    font-weight: 700;
+}
+
 .btn-scroll-top {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  background-color: #f4a261; /* Naranja suave */
-  color: white;
-  border: none;
-  border-radius: 50%;
-  width: 50px;
-  height: 50px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  z-index: 1000;
-  text-decoration: none;
-  font-size: 20px;
-  transition: background-color 0.3s ease;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #f4a261; /* Naranja suave */
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    text-decoration: none;
+    font-size: 24px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
 .btn-scroll-top:hover {
-  background-color: #e76f51; /* Naranja más oscuro */
-  color: white;
+    background-color: #e76f51; /* Naranja más oscuro */
+    transform: scale(1.1); /* Efecto de zoom */
+    color: white;
+}
+
+/* Estilo general para las secciones */
+.resume-section {
+    padding: 30px;
+    margin-bottom: 30px;
+    border-left: 5px solid #f4a261; /* Naranja suave */
+    background-color: #f0f4f8; /* Gris azulado suave */
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos de las secciones */
+.resume-section h2 {
+    color: #264653; /* Verde azulado oscuro */
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Separadores */
+hr.m-0 {
+    border-top: 2px solid #e76f51; /* Naranja oscuro */
+    margin: 20px 0;
+}
+
+/* Enlaces del menú */
+.nav-link {
+    color: white;
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #f4a261; /* Naranja suave */
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
 }
