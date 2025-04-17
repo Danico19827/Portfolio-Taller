@@ -10,6 +10,24 @@ Quería un espacio donde pudiera reflejar mi crecimiento personal y profesional 
 
 ---
 
+## 🛠️ Habilidades Técnicas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Danico19827&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Danico19827&layout=compact&theme=radical)
+
+---
+
 ## 📝 ¿Qué encontrarás aquí?
 
 En este portafolio podrás descubrir:
@@ -30,7 +48,7 @@ Creo que la programación es más que escribir líneas de código; es una forma 
 
 Si quieres saber más sobre mí o simplemente charlar sobre tecnología, aquí tienes cómo contactarme:
 
-- **Correo:** [nicco19822@gmail.com](mailto:nicco19822@example.com)
+- **Correo:** [nicco19822@gmail.com](mailto:nicco19822@gmail.com)
 - **GitHub:** [github.com/Danico19827](https://github.com/Danico19827)
 
 ---
